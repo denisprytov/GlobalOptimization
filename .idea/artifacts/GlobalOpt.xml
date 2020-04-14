@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="dm.bundle" name="GlobalOpt">
+    <output-path>$PROJECT_DIR$/out/artifacts/GlobalOpt</output-path>
+    <root id="root" />
+  </artifact>
+</component>
